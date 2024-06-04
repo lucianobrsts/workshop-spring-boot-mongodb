@@ -18,7 +18,6 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.lucianobrito.workshopmongo.domain.Post;
 import com.lucianobrito.workshopmongo.domain.User;
 import com.lucianobrito.workshopmongo.dto.UserDTO;
-import com.lucianobrito.workshopmongo.repository.UserRepository;
 import com.lucianobrito.workshopmongo.service.UserService;
 
 @RestController
